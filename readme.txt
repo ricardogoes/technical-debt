@@ -1,0 +1,1 @@
+This project simply contains some of the code snippets shown in the slides in this course. A lot of the supporting classes are simply boiler-plate to make the snippets compile, so don't expect to find a fully operational application.
